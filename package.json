@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "homebrew-duc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xenorio",
+  "license": "GPL-3.0-or-later",
+  "description": "A modular script for updating DynDNS",
+  "dependencies": {
+    "fs": "*",
+    "ms": "^2.1.3",
+    "public-ip": "^4.0.4",
+    "request": "^2.88.2"
+  }
+}
