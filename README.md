@@ -3,7 +3,7 @@
 
 
 ## What's this?
-This is a comlpletely modular DynDNS updater. It's supposed to support every DynDNS service in existence. If it doesn't, you can extend it by creating a service module that's tailored to the DynDNS service you want to be added!
+This is a completely modular DynDNS updater. It's supposed to support every DynDNS service in existence. If it doesn't, you can extend it by creating a service module that's tailored to the DynDNS service you want to be added!
 
 Originally, this was a private project i have created to update my own domains, but after i have seen some interest in it, i have decided to make it public. So, as this was private at some point, please don't ridicule my code as it was not originally meant for the public.
 
