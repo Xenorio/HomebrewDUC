@@ -3,6 +3,7 @@
 // {
 // 	"domain": "example.com",
 // 	"service": "custom",
+//	"method": "POST",
 // 	"uri": "dnsprovider.com/update?domain=%domain%&ip=%ip%&password=%password%",
 // 	"headers": {
 // 		"Authorization": "auth_header"
