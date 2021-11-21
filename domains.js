@@ -7,14 +7,14 @@
 // or create your own service module and submit a pull request
 
 module.exports.domains = [
-    {
+	{
 		"domain": "example.com",
 		"service": "namecheap",
-        "hosts": [
-            "@",
-            "www",
-            "*"
-        ],
-        "password": "your_password"
+        	"hosts": [
+            		"@",
+            		"www",
+            		"*"
+        	],
+        	"password": "your_password"
 	}
 ]
