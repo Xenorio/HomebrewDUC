@@ -26,7 +26,7 @@ module.exports.update = async (config, ip, host) => {
 
 	request({
 		method: "PATCH",
-		uri: `https://api.cloudflare.com/client/v4/zones/${config.zone}/dns_records/${config.host.id}`,
+		uri: `https://api.cloudflare.com/client/v4/zones/${config.zone}/dns_records/${host.id}`,
 		headers: {
 			"X-Auth-Email": config.auth.email,
 			"X-Auth-Key": config.auth.key
